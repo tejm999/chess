@@ -1,0 +1,21 @@
+Chess Game in Terminal
+Overview
+This project is a functional chess game implemented in the terminal. It follows all the standard rules of chess, including Check, Checkmate, Stalemate, En Passant, Pawn Promotion, and Castling.
+
+How to Play
+Download: Download the project files from the repository.
+Setup: Load the project into IntelliJ or any preferred Java IDE.
+Run: Open the terminal and navigate to the project directory.
+Execute: Run the game by executing the main file.
+
+Gameplay: Follow the prompts in the terminal to make moves using algebraic notation. 
+For example:To move a pawn, type "pawn" followed by the file letter. For example, "pawnA".
+For bishops, knights, and rooks, use "Q" or "K" to specify Queen's or King's side. For example, "bishopK c4".
+Pawns automatically promote to queens. The new queens will be the same as the pawn's file. For example, "queenH".
+To castle, type "castle" followed by a space and then a capital "K" or "Q" to specify a side. For example, "castle Q".
+
+Thank you for playing our game. Enjoy!
+
+Contributors
+Tej Abhishikth Medisetty
+Mohammed Sheikh
